@@ -43,7 +43,5 @@ def get_todays_news(key):
 
    
 if __name__ =="__main__":
-    key = "c6dcf4ea69ea47b88bca4466ef339df5"
-    #key2='d0542c7bbc2448959d240afb54beed71'
-    #key = "your key here"
+    key = "your key here"
     get_todays_news(key)
