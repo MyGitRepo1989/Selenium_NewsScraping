@@ -1,4 +1,4 @@
-# Selenium News Scraping and Topic modeling with Transformers
+# Selenium News Scraping and Topic Modeling with Transformers
 
 <h2>Overview</h2>
 <p>This repository contains a Python-based pipeline for collecting news stories by country using NewsAPI, extracting full articles using Selenium and ChromeDriver, and performing topic modeling using Hugging Face's Transformers.</p>
